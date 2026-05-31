@@ -2,8 +2,6 @@
 
 A CPU raytracer written in **C++23**, built around an object-oriented, plugin-based architecture. Scenes are described in plain configuration files and rendered to PPM images, with multithreaded rendering via OpenMP.
 
-> Epitech 2nd-year OOP project — a team project (see [Credits](#credits)).
-
 ## Features
 
 - **OOP architecture** — primitives, lights and materials behind clean interfaces (`IPrimitive`, `ILight`, `IMaterial`), instantiated through factories
@@ -41,11 +39,9 @@ A scene file describes the renderer settings, camera, materials, lights and prim
 
 ## Credits
 
-Group project by:
+Team project realized as part of the Epitech curriculum — **OOP** module.
 
 - Nielsen Combe-Bracciale
 - Mathys Aberkane
 - Sefkan Aydogdu
 - Julie Vincent
-
-Originally developed in a private team repository; this is a public snapshot for portfolio purposes.
