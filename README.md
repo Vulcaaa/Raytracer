@@ -45,7 +45,7 @@ Group project by:
 
 - Nielsen Combe-Bracciale
 - Mathys Aberkane
-- Julie
-- and contributors *sefkan*, *Yumi-alt*
+- Sefkan Aydogdu
+- Julie Vincent
 
 Originally developed in a private team repository; this is a public snapshot for portfolio purposes.
