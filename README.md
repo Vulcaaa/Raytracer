@@ -1,6 +1,6 @@
 # Raytracer
 
-A CPU raytracer written in **C++23**, built around an object-oriented, plugin-based architecture. Scenes are described in plain configuration files and rendered to PPM images, with multithreaded rendering via OpenMP.
+A **3D renderer** written in **C++23** that simulates light propagation using **raytracing** — rays bounce between surfaces to generate reflections, refractions, shadows and materials. Scenes are described in plain configuration files and rendered to PPM images, with multithreaded rendering via OpenMP.
 
 ## Features
 
